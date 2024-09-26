@@ -1,6 +1,11 @@
 # dexalot-public-chain-assets
 
-This repo holds information about Dexalot subnet chains.
+This repo holds information about Dexalot L1 chains.
+
+| Chain Name         | Chain Id |
+|--------------------|----------|
+| Dexalot L1 Testnet |  432201  |
+| Dexalot L1 Mainnet |  432204  |
 
 Each chain in the `chains` folder may contain the following files:
 - `chain-information.json`: General information about the chain such as the
